@@ -1,0 +1,16 @@
+{
+  "name": "basicgeosearchinmongodb",
+  "version": "1.0.0",
+  "description": "How to do basic geo search in mongodb.",
+  "scripts": {
+    "seed": "node seed.js",
+    "near-place": "node near-place.js",
+    "place-within": "node place-within.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}

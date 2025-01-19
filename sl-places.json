@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "60100c491600842a4fce6eca",
+    "name": "Galle Face Green",
+    "location": {
+      "type": "Point",
+      "coordinates": [79.8443, 6.9271]
+    }
+  },
+  {
+    "_id": "60100bd3e38b635eb75db316",
+    "name": "Temple of the Sacred Tooth Relic",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.6377, 7.2931]
+    }
+  },
+  {
+    "_id": "60100cc1e38b635eb75db317",
+    "name": "Sigiriya Rock Fortress",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.745, 7.957]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db318",
+    "name": "Horton Plains National Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.7993, 6.8028]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db319",
+    "name": "Pinnawala Elephant Orphanage",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.3856, 7.3008]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db320",
+    "name": "Yala National Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.5167, 6.4086]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db321",
+    "name": "Dambulla Cave Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.648, 7.8578]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db322",
+    "name": "Jaya Sri Maha Bodhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.3964, 8.3466]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db323",
+    "name": "Nine Arches Bridge",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.0461, 6.8763]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db324",
+    "name": "Arugam Bay",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.8333, 6.8167]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db325",
+    "name": "Mirissa Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.455, 5.9497]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db326",
+    "name": "Adam's Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.4994, 6.8098]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db327",
+    "name": "Unawatuna Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2539, 5.985]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db328",
+    "name": "Polonnaruwa Ancient City",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.0015, 7.9397]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db329",
+    "name": "Nuwara Eliya",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.7694, 6.9497]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db330",
+    "name": "Ella Rock",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.046, 6.8667]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db331",
+    "name": "Trincomalee Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.2427, 8.5718]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db332",
+    "name": "Ravana Falls",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.0671, 6.8486]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db333",
+    "name": "Kalpitiya Lagoon",
+    "location": {
+      "type": "Point",
+      "coordinates": [79.7175, 8.2287]
+    }
+  },
+  {
+    "_id": "60100d85e38b635eb75db334",
+    "name": "Bundala National Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.2529, 6.2139]
+    }
+  }
+]
